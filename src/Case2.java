@@ -6,7 +6,7 @@ public class Case2 {
  char bookva = 2;
  int chislo = 1;
  int sumBookva = (int)(bookva + chislo);
- System.out.println(sumbookva);
+ System.out.println(sumBookva);
 
     }
 }
