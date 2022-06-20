@@ -3,14 +3,15 @@ public class Case1 {
     // и баланс станет отрицательным.
     public static void main(String[] args) {
         int balance = 100;
-        int TotalBalance = increaseBalance (balance);
+        int bonus = 13;
+
+        int TotalBalance = increaseBalance (balance,bonus);
 
         System.out.println(TotalBalance);
     }
-    public static int increaseBalance(int balance)
+    public static int increaseBalance(int balance, int bonus)
     {
         int result;
-        int bonus = 13;
         result = balance + bonus;
         return result;
     }
