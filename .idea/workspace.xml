@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eaa1346-ab8b-4e83-8867-b76a72b4a788" name="Changes" comment="Задание 3">
+    <list default="true" id="0eaa1346-ab8b-4e83-8867-b76a72b4a788" name="Changes" comment="Задание 3 поправила конструкцию условия">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +107,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Case3" />
+        <item itemvalue="Application.Lesson1" />
         <item itemvalue="Application.Case1" />
         <item itemvalue="Application.Case2" />
         <item itemvalue="Application.Lesson1" />
@@ -220,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655745158447</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Задание 3 поправила конструкцию условия">
+      <created>1655748152290</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1655748152290</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +248,7 @@
     <MESSAGE value="Задание 2" />
     <MESSAGE value="Задание 1 внесла правки по комментам." />
     <MESSAGE value="Задание 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 3" />
+    <MESSAGE value="Задание 3 поправила конструкцию условия" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание 3 поправила конструкцию условия" />
   </component>
 </project>
