@@ -13,8 +13,8 @@ public class Case1 {
     public static long DataMillise( long numberOfDays){
             long result;
             long numberOfDaysMs = numberOfDays * 24 * 60 *60* 1000;
-            long DayToday = System.currentTimeMillis();
-                        result = DayToday+numberOfDaysMs;
+            long dayToday = System.currentTimeMillis();
+                        result = dayToday+numberOfDaysMs;
             return result;
 
         }
