@@ -4,17 +4,17 @@ public class Case1 {
     public static void main(String[] args) {
         long numberOfDays = -30L;
 
-        long nymberOfDaysMs = numberOfDays * 24 * 60 *60* 1000;
-        long TimeDataMillisec = DataMillise(nymberOfDaysMs);
+        long timeDataMillisec = DataMillise(numberOfDays);
 
-        Date DataSchet = new Date(TimeDataMillisec);
-        System.out.println(TimeDataMillisec);
+        Date DataSchet = new Date(timeDataMillisec);
+        System.out.println(timeDataMillisec);
         System.out.println(DataSchet);
     }
-    public static long DataMillise(long nymberOfDaysMs){
+    public static long DataMillise( long numberOfDays){
             long result;
+            long numberOfDaysMs = numberOfDays * 24 * 60 *60* 1000;
             long DayToday = System.currentTimeMillis();
-                        result = DayToday+nymberOfDaysMs;
+                        result = DayToday+numberOfDaysMs;
             return result;
 
         }
