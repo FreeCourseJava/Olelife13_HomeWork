@@ -1,18 +1,21 @@
+
 public class Case1 {
-    // Пойдет не так вот что: при цикле или больших числах будет превышено максимальное положительное значение int,
-    // и баланс станет отрицательным.
     public static void main(String[] args) {
-        int balance = 100;
-        int bonus = 13;
+        long numberOfDays = -30L;
 
-        int TotalBalance = increaseBalance (balance,bonus);
+        long timeDataMillisec = DataMillise(numberOfDays);
 
-        System.out.println(TotalBalance);
+        Date DataSchet = new Date(timeDataMillisec);
+        System.out.println(timeDataMillisec);
+        System.out.println(DataSchet);
     }
-    public static int increaseBalance(int balance, int bonus)
-    {
-        int result;
-        result = balance + bonus;
-        return result;
-    }
+    public static long DataMillise( long numberOfDays){
+            long result;
+            long numberOfDaysMs = numberOfDays * 24 * 60 *60* 1000;
+            long dayToday = System.currentTimeMillis();
+                        result = dayToday+numberOfDaysMs;
+            return result;
+
+        }
+
 }

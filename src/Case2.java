@@ -7,4 +7,3 @@ public class Case2 {
  System.out.println(sumBookva);
 
     }
-}
