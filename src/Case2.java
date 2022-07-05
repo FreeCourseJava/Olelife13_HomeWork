@@ -1,28 +1,9 @@
 public class Case2 {
+
     public static void main(String[] args) {
+ char bookva = 2;
+ int chislo = 1;
+        char sumBookva = (char)(bookva + chislo);
+ System.out.println(sumBookva);
 
-        int balance = 2147483645;
-        int bonus = 13;
-
-
-        int TotalBalance = increaseBalance(balance,bonus);
-
-        System.out.println(TotalBalance);
     }
-
-    public static int increaseBalance(int balance,int bonus) {
-        int result;
-        int intFlow = 0;
-
-        result = balance + bonus;
-
-        if (result < intFlow) {
-
-            System.out.println(intFlow);
-        } else {
-            System.out.println(result);
-
-        }
-        return result;
-    }
-}
