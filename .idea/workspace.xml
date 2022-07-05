@@ -53,48 +53,9 @@ anches>
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Case3">
-    <configuration name="Case1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Case1" />
-      <module name="Olelife13_Lesson1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Case2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Case2" />
-      <module name="Olelife13_Lesson1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Case3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Case3" />
-      <module name="Olelife13_Lesson1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1" />
-      <module name="Olelife13_Lesson1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Сase3" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Сase3" />
-      <module name="Olelife13_Lesson1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Case3" />
-        <item itemvalue="Application.Lesson1" />
-        <item itemvalue="Application.Case1" />
-        <item itemvalue="Application.Case2" />
         <item itemvalue="Application.Lesson1" />
       </list>
     </recent_temporary>
