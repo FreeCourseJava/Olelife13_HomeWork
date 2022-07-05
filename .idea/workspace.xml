@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eaa1346-ab8b-4e83-8867-b76a72b4a788" name="Changes" comment="исправляю конфликт">
-      <change beforePath="$PROJECT_DIR$/src/Case1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Case2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Case3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson1.java" beforeDir="false" />
-    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,20 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
-    <favorite-branches>
+anches>
       <branch-storage>
         <map>
           <entry type="LOCAL">
@@ -48,7 +30,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_1" />
+
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,98 +83,7 @@
       <option name="project" value="LOCAL" />
       <updated>1655558993311</updated>
     </task>
-    <task id="LOCAL-00003" summary="Задание 1">
-      <created>1655562504176</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1655562504176</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Задание 1">
-      <created>1655562724246</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1655562724246</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Задание 2">
-      <created>1655577980632</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1655577980632</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Задание 2">
-      <created>1655578197003</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1655578197003</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Задание 2">
-      <created>1655578215370</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1655578215370</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Задание 3">
-      <created>1655579634955</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1655579634955</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Задание 1">
-      <created>1655635778982</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1655635778982</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Задание 2">
-      <created>1655643708845</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1655643708845</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Задание 3">
-      <created>1655663118608</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1655663118608</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Задание 1 внесла правки по комментам.">
-      <created>1655742086759</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1655742086759</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Задание 1 внесла правки по комментам.">
-      <created>1655744821545</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1655744821545</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Задание 3">
-      <created>1655745158447</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1655745158447</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Задание 3 поправила конструкцию условия">
-      <created>1655748152290</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1655748152290</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,10 +100,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="тест" />
     <MESSAGE value="Задание 1" />
-    <MESSAGE value="Задание 2" />
-    <MESSAGE value="Задание 1 внесла правки по комментам." />
-    <MESSAGE value="Задание 3" />
-    <MESSAGE value="Задание 3 поправила конструкцию условия" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 3 поправила конструкцию условия" />
+
   </component>
 </project>
